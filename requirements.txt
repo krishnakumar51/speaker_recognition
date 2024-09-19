@@ -1,0 +1,8 @@
+streamlit
+sounddevice
+numpy
+matplotlib
+torchaudio
+speechbrain
+scikit-learn
+librosa
