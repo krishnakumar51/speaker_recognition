@@ -7,4 +7,3 @@ speechbrain
 scikit-learn
 librosa
 pyaudio
-libportaudio2
