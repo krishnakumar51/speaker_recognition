@@ -18,6 +18,7 @@ dependencies = [
     "speechbrain",
     "scikit-learn",
     "librosa",
+    "pyaudio"
 ]
 requires-python = ">=3.10"
 

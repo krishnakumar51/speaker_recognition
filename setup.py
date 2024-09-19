@@ -12,7 +12,8 @@ setup(
         "torchaudio",
         "speechbrain",
         "scikit-learn",
-        "librosa"
+        "librosa",
+        "pyaudio"
     ],
     python_requires=">=3.10",
     description="A Streamlit-based speaker recognition app",
