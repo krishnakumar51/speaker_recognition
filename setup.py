@@ -13,7 +13,7 @@ setup(
         "speechbrain",
         "scikit-learn",
         "librosa",
-        "pyaudio"
+        "pyaudio", "libportaudio2"
     ],
     python_requires=">=3.10",
     description="A Streamlit-based speaker recognition app",
