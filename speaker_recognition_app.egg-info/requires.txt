@@ -1,7 +1,12 @@
 streamlit
+sounddevice
 numpy
 matplotlib
 torchaudio
 speechbrain
 scikit-learn
 librosa
+pyaudio
+simpleaudio
+pygame
+soundfile

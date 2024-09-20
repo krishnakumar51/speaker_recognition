@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: speaker-recognition-app
+Version: 0.1.0
+Summary: A Streamlit-based speaker recognition app
+Home-page: https://github.com/krishnakumar51/speaker_recognition.git
+Author: Krishna Kumar
+Author-email: Krishna Kumar <godkrishnasskal@gmail.com>
+Project-URL: Homepage, https://github.com/krishnakumar51/speaker_recognition.git
+Requires-Python: >=3.10
+Requires-Dist: streamlit
+Requires-Dist: sounddevice
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: torchaudio
+Requires-Dist: speechbrain
+Requires-Dist: scikit-learn
+Requires-Dist: librosa
+Requires-Dist: pyaudio
+Requires-Dist: simpleaudio
+Requires-Dist: pygame
+Requires-Dist: soundfile

@@ -11,14 +11,12 @@ authors = [
 ]
 dependencies = [
     "streamlit",
-    "sounddevice",
     "numpy",
     "matplotlib",
     "torchaudio",
     "speechbrain",
     "scikit-learn",
     "librosa",
-    "pyaudio",
 
 ]
 requires-python = ">=3.10"

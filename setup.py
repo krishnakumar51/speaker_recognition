@@ -6,15 +6,13 @@ setup(
     packages=find_packages(),
     install_requires=[
         "streamlit",
-        "sounddevice",
         "numpy",
         "matplotlib",
         "torchaudio",
         "speechbrain",
         "scikit-learn",
         "librosa",
-        "pyaudio", 
-
+      
     ],
     python_requires=">=3.10",
     description="A Streamlit-based speaker recognition app",

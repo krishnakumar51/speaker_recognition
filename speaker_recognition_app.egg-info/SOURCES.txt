@@ -1,0 +1,7 @@
+pyproject.toml
+setup.py
+speaker_recognition_app.egg-info/PKG-INFO
+speaker_recognition_app.egg-info/SOURCES.txt
+speaker_recognition_app.egg-info/dependency_links.txt
+speaker_recognition_app.egg-info/requires.txt
+speaker_recognition_app.egg-info/top_level.txt
